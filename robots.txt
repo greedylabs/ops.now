@@ -1,9 +1,6 @@
 User-agent: *
 Allow: /
-Allow: /?q=*
 Allow: /index.html
-Allow: /styles.css
-Allow: /script.js
 Allow: /sitemap.xml
 
 Sitemap: https://ops.now/sitemap.xml
